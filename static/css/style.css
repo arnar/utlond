@@ -56,7 +56,7 @@ body {
 }
 
 #menu a:hover {
-	background: #fff url(hbackground_striped.png) repeat-x 0 0px;
+	background: #fff url(hbackground_striped.png) repeat-x 0 1px;
 }
 
 #logo {
