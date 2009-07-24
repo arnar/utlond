@@ -39,9 +39,9 @@ title: Arnar Birgisson
 Previous education
 ------------------
 
-**B.Sc. in Mathematics**, University of Iceland, graduate year 2004.
-
 **M.Sc. in Computer Science**, Reykjavik University, graduate year 2009.
+
+**B.Sc. in Mathematics**, University of Iceland, graduate year 2004.
 
 M.Sc. Thesis work
 -----------------
