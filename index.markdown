@@ -72,13 +72,13 @@ Teaching
 
 I have previously been a TA for the following courses at RU.
 
-Spring 2008: *Algorithm design and analysis*, T-604-HGRE. Administered weekly excercise sessions.
+Spring 2008: *Algorithm design and analysis.* Administered weekly excercise sessions.
              2nd-3rd year elective course of B.Sc. in CS.
 
 Spring 2008: *Computer Science II* (3-week intensive course). Administered daily excercise sessions 
              and helped with course design (first-time Python was used). 1st year of engineering programs.
 
-Spring 2009: *Introduction to Aritificial Intelligence*. Administer weekly lab sessions and compose assignments 
+Spring 2009: *Introduction to Aritificial Intelligence.* Administer weekly lab sessions and compose assignments 
              and teaching material for AI programming in LISP, Prolog and others.
 
 Further information
