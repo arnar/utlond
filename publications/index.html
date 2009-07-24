@@ -58,30 +58,28 @@ categories:
         link: http://www.cs.rutgers.edu/research/technical_reports/reports.php?action=view&amp;series_id=1&amp;report_id=628
         pdf: http://www.hvergi.net/arnar/public/papers/TMI-tr486.pdf
 ---
-<h1 class="heading">Publications</h1>
-<div class="section">
+<h1>Publications</h1>
 
-    {% for group in page.categories %}
-    <h1><a>{{ group.title }}</a></h1>
+{% for group in page.categories %}
+<h2><a>{{ group.title }}</a></h2>
 
-    {% for pub in group.publications %}
-        <div class="publication"><p>
-            <span class="date">{{ pub['date'] }}</span>
-            <span class="authors">{{ pub.authors | array_to_sentence_string }}.</span>
-            <span class="title">{{ pub.title }}.</span>
-            <span class="venue">{{ pub.venue }}.</span>
-            {{ pub.extra }}
-            </p>
-            <ul>
-                {% if pub.link %}
-                    <li><a  href="{{ pub.link }}">Link</a></li>
-                {% endif %}
-                {% if pub.pdf %}
-                    <li><a  href="{{ pub.pdf }}">PDF</a></li>
-                {% endif %}
-            </ul>
-        </div>        
-    {% endfor %}
+{% for pub in group.publications %}
+    <div class="publication"><p>
+        <span class="date">{{ pub['date'] }}</span>
+        <span class="authors">{{ pub.authors | array_to_sentence_string }}.</span>
+        <span class="title">{{ pub.title }}.</span>
+        <span class="venue">{{ pub.venue }}.</span>
+        {{ pub.extra }}
+        </p>
+        <ul>
+            {% if pub.link %}
+                <li><a  href="{{ pub.link }}">Link</a></li>
+            {% endif %}
+            {% if pub.pdf %}
+                <li><a  href="{{ pub.pdf }}">PDF</a></li>
+            {% endif %}
+        </ul>
+    </div>        
+{% endfor %}
 
-    {% endfor %}
-</div>
+{% endfor %}

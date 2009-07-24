@@ -88,9 +88,6 @@ h1 {
 	font-weight: normal;
 	font-size: 35px;
 	color: #5e7ba0;
-}
-
-.heading {
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
@@ -115,7 +112,7 @@ h3 {
 	margin-top: 30px;
 }
 
-.section h1 {
+h2 {
 	margin-top: 1em;
 	font-size: 1.2em;
 	font-style: italic;
@@ -310,7 +307,6 @@ cite {
 }
 
 #foot {
-	margin-top: 30px;
 	padding: 10px;
 	text-align: left;
 	background-color: #f0f0f0;
