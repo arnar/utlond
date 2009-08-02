@@ -36,19 +36,17 @@ title: Arnar Birgisson
 <div style="clear:both"><!-- --></div>
 </div>
 
-<div class="section" markdown="1">
-    
 Previous education
-==================
-
-**B.Sc. in Mathematics**, University of Iceland, graduate year 2004.
+------------------
 
 **M.Sc. in Computer Science**, Reykjavik University, graduate year 2009.
 
-M.Sc. Thesis work
-=================
+**B.Sc. in Mathematics**, University of Iceland, graduate year 2004.
 
-My MSc thesis is titled [Topics in Structural Operational Semantics](http://www.hvergi.net/arnar/projects/msc-thesis/) 
+M.Sc. Thesis work
+-----------------
+
+My MSc thesis is titled [Topics in Structural Operational Semantics](projects/msc-thesis) 
 and was submitted and defended in May 2009. The link above leads to a PDF version of the thesis as well as my 
 presentation slide deck. The thesis presents three independent projects; an implementation and semantics of 
 Transactional Memory Introspection in Haskell and SOS, decompositionality results for a process algebra and 
@@ -57,7 +55,7 @@ logic which includes a detailed notion of computation history and SOS rule forma
 My supervisor is [Luca Aceto](http://www.ru.is/luca/)
 
 Current research interests
-==========================
+--------------------------
 
 My current M.Sc. thesis work and related research are in process algebra. Other interests include concurrency 
 theory in general, programming languages, type theory, use of logic in computer science and modelling and verification.
@@ -70,21 +68,21 @@ Going outside the scope of my education I also have a weak spot for electronics 
 and [general DIY hacking](http://www.hackaday.com/).
 
 Teaching
-========
+--------
 
 I have previously been a TA for the following courses at RU.
 
-Spring 2008: *Algorithm design and analysis*, T-604-HGRE. Administered weekly excercise sessions.
+Spring 2008: *Algorithm design and analysis.* Administered weekly excercise sessions.
              2nd-3rd year elective course of B.Sc. in CS.
 
 Spring 2008: *Computer Science II* (3-week intensive course). Administered daily excercise sessions 
              and helped with course design (first-time Python was used). 1st year of engineering programs.
 
-Spring 2009: *Introduction to Aritificial Intelligence*. Administer weekly lab sessions and compose assignments 
+Spring 2009: *Introduction to Aritificial Intelligence.* Administer weekly lab sessions and compose assignments 
              and teaching material for AI programming in LISP, Prolog and others.
 
 Further information
-===================
+-------------------
 
 This website contains pages on some of my [projects](http://www.hvergi.net/arnar/projects/), 
 list of [publications](http://www.hvergi.net/arnar/publications/)
@@ -93,7 +91,7 @@ and [contact information](http://www.hvergi.net/arnar/contact/).
 My CV in PDF form can be downloaded [here](http://www.hvergi.net/arnar/public/cv.pdf).
 
 Personal stuff
-==============
+--------------
 
 Besides all that CS and programming nonsense I enjoy photography, as witnessed on 
 [my Flickr page](http://www.flickr.com/photos/arnarbi), driving around 
@@ -111,7 +109,7 @@ Besides flickr, I'm also to be found in various online places:
 - [Amazon](http://www.amazon.com/gp/pdp/profile/A1QNY7AUX6PAIR)
 
 This website
-============
+------------
 
 This website is a collection of static files generated with [Jekyll](http://github.com/mojombo/jekyll/tree/master)
 and managed with [git](http://git-scm.com/).
@@ -119,4 +117,3 @@ and managed with [git](http://git-scm.com/).
 Georg Brandl generously allowed me to steal his CSS and design ideas from the 
 [Pygments website](http://www.pygments.org/), thanks Georg! Pygments also handles the highlighting of all code on this site.
 
-</div>
