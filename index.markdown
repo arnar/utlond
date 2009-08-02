@@ -103,7 +103,7 @@ the piano (well, pretending to play at least).
 Besides flickr, I'm also to be found in various online places:
 
 - [Twitter](http://twitter.com/arnarbi)
-- [Facebook](http://www.facebook.com/people/Arnar-Birgisson/707273680)
+- [Facebook](http://www.facebook.com/arnarbi)
 - [Flickr](http://www.flickr.com/photos/arnarbi/)
 - [LinkedIn](http://www.linkedin.com/pub/b/1b4/19)
 - [github](http://github.com/arnar)
