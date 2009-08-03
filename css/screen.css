@@ -211,10 +211,10 @@ ul.posts {
     margin-bottom: 1em;
   }
 
-#disqus_thread #dsq-comments-count,
+#disqus_thread .dsq-h3-commentcount,
 #disqus_thread .dsq-item-sort,
 #disqus_thread .dsq-item-cp,
-#disqus_thread .dsq-by,
+#disqus_thread .dsq-by
 {
     display: none;
 }
