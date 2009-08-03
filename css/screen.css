@@ -152,7 +152,9 @@ ul.posts {
 /*****************************************************************************/
 
 #post {
-
+    padding-bottom: .5em;
+    margin-bottom: .5em;
+    border-bottom: 1px solid #ccc;
 }
 
   /* standard */
@@ -202,6 +204,13 @@ ul.posts {
         margin: auto;
         display: block;
     }
+
+  #post hr {
+      border: 0;
+      color: #ccc;
+      background-color: #ccc;
+      height: 1px;
+  }
 
 #related {
   margin-top: 2em;
