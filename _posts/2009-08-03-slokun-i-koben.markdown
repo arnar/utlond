@@ -50,3 +50,4 @@ komum fyrir fjögur til Marktoberdorf (um 1-2 klst í lest frá München) þá �
 bara að bíða því innskráning í námskeiðið opnar ekki fyrr. Vonandi verður ekki rigning...
 
 Bless í bili!
+
