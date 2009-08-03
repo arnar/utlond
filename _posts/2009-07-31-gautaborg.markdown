@@ -24,7 +24,7 @@ einhverju mikilvægu.
 Það er mikil snilld að hafa góðan félagskap og þau eru búinn að vera
 mjög þolinmóð að fræða okkur um sænskar sérviskur :)
 
-![Heiðar og Bergrún](/utlond/photos/heidar_bergrun.jpg)
+![Heiðar og Bergrún](/photos/heidar_bergrun.jpg)
 
 Í gær heilsuðum við uppá sænska skattinn og sóttum um kennitölu, en án hennar
 er maður frekar ómerkilegur hér. Eftir það hittum við leigusalan okkar, en íbúðin
