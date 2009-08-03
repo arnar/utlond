@@ -213,7 +213,8 @@ ul.posts {
 
 #disqus_thread #dsq-comments-count,
 #disqus_thread .dsq-item-sort,
-#disqus_thread .dsq-item-cp
+#disqus_thread .dsq-item-cp,
+#disqus_thread .dsq-by,
 {
     display: none;
 }
