@@ -35,25 +35,25 @@ Kaupmannahöfn, umslaginu með 10.000 sænskum krónum sem áttu m.a. að vera f
 leigugreiðslunni. Sjitt. Málið reddaðist þó því Hossein (leigusalinn) rölti með okkur
 í hraðbanka þar sem Visa beilaði mig út.
 
-Í gærkvöldi fórum við svo á mjög góðan indverskan veitingastað niðri í bæ.
+Í gærkvöldi fórum við á mjög góðan indverskan veitingastað niðri í bæ.
 Eftir það fórum við bara heim og Willard dró upp 
 [Munchkin](http://www.worldofmunchkin.com/game/), sem er stórfurðulegt
 spil sem... uh, já.. það er ekki séns að ég geti útskýrt það hér.
-Þar sem ekkert var á planinu í dag dag sváfum við vel fram undir hádegi, 
+Þar sem ekkert var á planinu í dag sváfum við vel fram undir hádegi, 
 sumir lengur en aðrir. Gestgjafar okkar báru fram
 morgunmat eins og á fínasta hóteli og ég fékk mér súrmjólk með 
 [jarðgubbi](http://sv.wikipedia.org/wiki/Jordgubbe). Við tókum
 svo ferjustrætó yfir í Haga þar sem þau sýndu okkur skemmtilegt hverfi og
 [Skanse Kronan](http://en.wikipedia.org/wiki/Skansen_Kronan), 
 sem er gamall varðturn til að verjast jävla dönunum. Við settumst
-svo inn á kaffihúsið [Tinni](http://heroworkshop.files.wordpress.com/2009/01/tintin.jpg) 
-sem var mjög næs. Bergrún og Heiðar buðu okkur svo til
+inn á kaffihúsið [Tinni](http://heroworkshop.files.wordpress.com/2009/01/tintin.jpg) 
+sem var mjög næs. Bergrún og Heiðar buðu okkur síðan til
 þeirra í kvöldmat og fyrir valinu varð síldarhlaðborð uppá sænska vísu. Núna sitjum
 við í slökun áður en við undirbúum matinn, 
 Bergrún les handbók um Íslendinga og Willard og Heiðar eru að explora
 sérkennilega tónlist á netinu. Þeir sem þekkja Willard vita að orðið *sérkennilega*
 er ekki skrifað hér uppá punt.
 
-Við Willard eigum svo bókaðan lestarmiða til baka til Kaupmannahafnar í fyrramálið
+Við Willard eigum bókaðan lestarmiða til baka til Kaupmannahafnar í fyrramálið
 klukkan átta.
 
