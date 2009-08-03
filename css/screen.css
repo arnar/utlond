@@ -210,3 +210,12 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+#disqus_thread #dsq-comments-count,
+#disqus_thread .dsq-item-sort,
+#disqus_thread .dsq-item-cp
+{
+    display: none;
+}
+
+
