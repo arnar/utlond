@@ -1,0 +1,21 @@
+---
+layout: default
+title: Arnar í útlöndum
+---
+
+<div id="home">
+  <h1>Dagbók</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+ <!-- 
+  <h1>Myndir</h1>
+  <ul class="posts">
+    <li><span>01 Ágú 2009</span> &raquo; <a href="http://www.flickr.com/photos/arnarbi/sets/72157605998022915/show/">Sumarsólstöður á Heklu 2008</a></li>
+  </ul>
+-->
+  
+</div>
+

@@ -1,44 +1,53 @@
 ---
-layout: page
+layout: post
 title: Undirbúningur í Gautaborg
 ---
-Hæ. Hugmyndin er að reyna að skrifa svolítið hér, kannski um ferðir mínar, flutninginn
-og lífið í Gautaborg, en aðallega bara um ekki neitt. Tilgangurinn er að reyna skrifa
-smá íslensku, sem ég hef lítið gert af síðan í menntaskóla, og eins til að halda smá
-dagbók fyrir sjálfan mig. Ef vera skyldi að einhverjir aðrir hafa áhuga á því að lesa 
-þetta, þá er það líka bara í góðu lagi.
+Hæ. Ertu að spá í af hverju þú ert að lesa þetta? Ef já, þá ættirðu sennilega að skoða
+[eitthvað skemmtilegra](http://www.airsicknessbags.com/). Hér eiga aðeins þeir erindi
+sem hafa einkennilegan áhuga á mínum málum.
 
-Við Willard flugum á miðvikudagskvöld (núna er föstudagur) frá Íslandi, en gámurinn með
-draslinu okkar lagði af stað fyrr um daginn. Fluginu okkar hafði verið seinkað (þó með
-löngum fyrirvara) þannig að við lentum í Kaupmannahöfn rétt fyrir klukkan fjögur á
-fimmtudagsmorgunn. Pabbi kom og sótti okkur á Amagerbro metro-stöðina og skutlaði
-okkur á aðajárnbrautarstöðina þar sem við áttum lest til Gautaborgar klukkan sjö.
+Við Willard flugum á miðvikudagskvöld (núna er föstudagur) frá Íslandi, en 
+gámurinn með draslinu okkar lagði af stað fyrr um daginn. 
+Ónefnt flugfélag seinkaði í annað sinn fluginu mínu, en það bakaði mér sem
+betur fer ekki jafn mikil vandræði og síðast. Við lentum í þetta skiptið þegar
+klukkan var langt gengin fjögur um morguninn, við áttum bókaða lest til Gautaborgar
+klukkan 7. Á metrostöðinni beið pabbi óvænt eftir okkur á flottum Benz '82.
+Við rúlluðum bara beint á lestarstöðina þar sem við umpökkuðum aðeins og skildum
+mestallt eftir í rúmgóðu skottinu. Sú tilfinning nagaði mig að ég væri að gleyma
+einhverju mikilvægu.
 
-Í Gautaborg höfum við gist hjá eðalparinu Heiðari og Bergrúnu, sem ég fann í gegnum
-[CouchSurfers](http://www.couchsurfing.com/) vefsíðuna en þau hafa búið hérna í ár við
-meistaranám í stærðfræði við Gautaborgarháskóla. Þau tóku afskaplega vel á móti
-okkur, það er núll vesen við allt og þau eru bæði rólyndisfólk og einstaklega
-vinsamleg. Það er mikil snilld að hafa góðan félagskap og þau eru búinn að vera
+Í Gautaborg höfum við gist hjá þeim Heiðari og Bergrúnu, en þau eru 
+[sófabrimarar](http://www.couchsurfing.com/). Það var töluverð heppni að finna
+þau, því ekki eru þau aðeins indælir gestgjafar sem voru til í að bjóða tveimur
+ókunnugum körlum heim til sín, heldur eru þau líka stærðfræðingar við framhaldsnám
+í Gautaborgarháskóla og eðalnördar eftir því.
+Það er mikil snilld að hafa góðan félagskap og þau eru búinn að vera
 mjög þolinmóð að fræða okkur um sænskar sérviskur :)
 
-Við Willard fórum í gær í sænska skattinn og skráðum okkur inn í landið til að fá
-sænska kennitölu, en hún er nauðsynleg í nánast allt s.s. bankaviðskipti, tryggingar og
-þess háttar. Við fórum svo og hittum Hossein, sem ætlar að leigja okkur íbúðina sína
-fram í desember. Íbúðin var til allrar hamingju nokkuð stærri en ég hafði ímyndað mér,
-enda erum við (aðallega ég) með heilan haug af dóti með mér í gámnum. Ég var búinn að
-kanna leigu á geymsluplássi, en það lítur út fyrir að þess gerist ekki þörf. Hossein
-var með alla pappíra sem við þurftum að skrifa undir í íbúðinni, og hann ætlar bara
-að sjá um allt sem þarf, þ.e. að ganga frá málum við fyrirtækið sem á stúdentaíbúðirnar.
-Við gengum því frá öllu sem við þurftum að gera í Gautaborg bara í gær.
+![Heiðar og Bergrún](/photos/heidar_bergrun.jpg)  
 
-Við fórum svo með Bergrúnu og Heiðari á mjög góðan indverskan veitingastað í gærkvöldi.
-Eftir það fórum við bara heim og Willard dró upp [Munchkin](), sem er stórfurðulegt
-spil sem... uh, já.. þið verðið bara að prófa. Þar sem það var ekkert meira á planinu í
-dag sváfum við fram undir hádegi, sumir lengur en aðrir. Gestgjafar okkar báru fram
-morgunmat eins og á fínasta hóteli og ég fékk mér súrmjólk með [jarðgubbi](). Við tókum
+Í gær heilsuðum við uppá sænska skattinn og sóttum um kennitölu, en án hennar
+er maður frekar ómerkilegur hér. Eftir það hittum við leigusalan okkar, en íbúðin
+er sem betur fer ekki alveg jafn lítil og ég hafði ímyndað mér út frá myndum. Það
+er allavega alveg smá séns að allt draslið mitt komist fyrir. Um leið og ég skrifaði
+undir samninginn rann upp fyrir mér að ég *hafði* gleymt einhverju mikilvægu í 
+Kaupmannahöfn, umslaginu með 10.000 sænskum krónum sem áttu m.a. að vera fyrir fyrstu
+leigugreiðslunni. Sjitt. Málið reddaðist þó því Hossein (leigusalinn) rölti með okkur
+í hraðbanka þar sem Visa beilaði mig út.
+
+Í gærkvöldi fórum við svo á mjög góðan indverskan veitingastað niðri í bæ.
+Eftir það fórum við bara heim og Willard dró upp 
+[Munchkin](http://www.worldofmunchkin.com/game/), sem er stórfurðulegt
+spil sem... uh, já.. það er ekki séns að ég geti útskýrt það hér.
+Þar sem ekkert var á planinu í dag dag sváfum við vel fram undir hádegi, 
+sumir lengur en aðrir. Gestgjafar okkar báru fram
+morgunmat eins og á fínasta hóteli og ég fékk mér súrmjólk með 
+[jarðgubbi](http://sv.wikipedia.org/wiki/Jordgubbe). Við tókum
 svo ferjustrætó yfir í Haga þar sem þau sýndu okkur skemmtilegt hverfi og
-[Skanse Kronan](), sem er gamall varðturn til að verjast dana-andskotum. Við settumst
-svo inn á kaffihúsið [Tinni]() sem var mjög næs. Bergrún og Heiðar buðu okkur svo til
+[Skanse Kronan](http://en.wikipedia.org/wiki/Skansen_Kronan), 
+sem er gamall varðturn til að verjast jävla dönunum. Við settumst
+svo inn á kaffihúsið [Tinni](http://heroworkshop.files.wordpress.com/2009/01/tintin.jpg) 
+sem var mjög næs. Bergrún og Heiðar buðu okkur svo til
 þeirra í kvöldmat og fyrir valinu varð síldarhlaðborð uppá sænska vísu. Núna sitjum
 við í slökun áður en við undirbúum matinn, 
 Bergrún les handbók um Íslendinga og Willard og Heiðar eru að explora
@@ -47,13 +56,4 @@ er ekki skrifað hér uppá punt.
 
 Við Willard eigum svo bókaðan lestarmiða til baka til Kaupmannahafnar í fyrramálið
 klukkan átta.
-
----
-
-Ég kann virkilega vel við Gautaborg svona við fyrstu kynni. Það er á einhvern hátt mjög 
-afslappað og þægilegt umhverfi hérna. Þrátt fyrir rigningu, rok og frekar óspennandi veður, 
-þá er samt gott að vera hér og það er frekar auðvelt að gleyma því að maður er ekki
-heima hjá sér. Ég hlakka mikið til að vera búinn að koma mér endanlega fyrir í minni 
-eigin íbúð, en markmiðið er að það verði klárt fyrir lok nóvember.
-
 
