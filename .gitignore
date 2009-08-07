@@ -1,3 +1,5 @@
 _site
 *.swp
 **/*.swp
+**/.DS_Store
+.DS_Store

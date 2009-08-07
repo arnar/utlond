@@ -12,8 +12,7 @@ staður sem er aðeins opinn frá sex til tíu á föstudags- og laugardagskvöl
 margt gott segja um Íslendinga, en ég sá ekki fyrir mér að íslenskur kráareigandi
 gæti verið svona nægjusamur. Þar sem okkur var eðlilega hent út snemma, þá fórum við
 heim, í þetta skiptið í annað spil sem krafiðist smá óhlutbundinnar athyglisgáfu.
-Við gerðum því nákvæma rannsókn á áhrifum áfengis á slíkar og aðrar gáfur. Við bíðum
-nú niðurstaðna, en tölfræðin eru í vinnslu hjá Bergrúnu.
+Við gerðum því nákvæma rannsókn á áhrifum ólyfjan og þreytu á slíkar og aðrar gáfur. 
 
 Við Willard læddumst svo út ninja-style á laugardagsmorgunn og vorum komnir til
 Köben um hádegi, eftir slitrótt meðvitundarleysi í lestinni. Þá voru pabbi og co á
@@ -26,10 +25,10 @@ sleiktum sólksinið að íslenskum sið og horfðum yfir til fyrirheitna landsi
 
 Eftir þetta tók við mikil andleg slökun í þrjá daga. Án þess að setja það í neinn
 fallegan búning, þá svaf ég bara fram yfir hádegi (ólíkt mér, ekki satt?) og tók
-svo hlutunum rólega eftir hádegið, m.a. við að koma þessari þvælu (*e. blog*) í
+svo hlutunum rólega eftir það, m.a. við að koma þessari þvælu (sem þú ert að horfa á núna) í
 gang. Í gær var reyndar úrvalsveður, en heimilisfólkið hér kaus að njóta hans í
-gegnum gler til heiður öðrum innipúkum. Mér finnst alltaf jafn gaman að koma hingað
-undir álmtrén til þeirra.[^1] því hér er ekki til stress. Fyrir mig eru nokkrir dagar
+gegnum gler til heiðurs öðrum innipúkum. Mér finnst alltaf jafn gaman að koma hingað
+undir álmtrén til þeirra,[^1] því hér er ekki til stress. Fyrir mig eru nokkrir dagar
 í heimsókn hér alltaf eins og slökunardvöl á heilsuhæli.
 
 [^1]: Það eru reyndar engin álmtré hér lengur, en gatan heitir *Under Elmene*.
