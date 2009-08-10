@@ -47,7 +47,7 @@ hennar Heiðu (já, ég fattaði hvað þetta var kjánalegt þegar ég þurfti 
 
 ![Þetta er ekki kofinn hennar Heiðu](/photos/marktoberdorf-tun.jpg)
 
-Annars bara bless í bili.. nema eitt í lokin, það *víst* heitir Toff*if*ee. Þeir taka
+Annars bara bless í bili.. nema eitt í lokin, það heitir *víst* Toff*if*ee. Þeir taka
 það til sín sem eiga.
 
 ![Sönnunargagn nr. 1](/photos/toffifee.jpg)
