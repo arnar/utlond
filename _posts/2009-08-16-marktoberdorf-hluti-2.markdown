@@ -16,7 +16,7 @@ manneskjur í 24 tíma, og slíkur kostar tæpar 30 evrur. Við tókum lestina t
 Við Josef ætluðum fyrst að hjóla alveg frá Marktoberdorf, með hópi sem leigði hjól þar,
 en við vorum aðeins of seinir í það því Andrei fékk síðsta hjólið af hjólaleigunni. Við
 enduðum fimm saman (því við vorum á sama lestarmiða) yfir daginn. Willard byrjaði strax
-á því að fá sér ís, en okkur reiknaðist til að hann hefði fengið sér eina sex á jafn
+á því að fá sér ís, en okkur reiknaðist til að hann hafi fengið sér eina sex á jafn
 mörgum tímum.
 
 ![Númer tvö](/photos/is.jpg)
@@ -30,7 +30,7 @@ eru mögnuð á litinn.
 ![Á leiðinni frá Füssen til Hohenschwangau](/photos/fussen.jpg)
 
 Kastalarnir tveir eru magnaðir, sérstaklega Neuschwanstein. Hann var byggður af Lúðvík II
-konungi af Bæjaralandi. Reyndar var hann aldrei alveg kláraður því Lúðvík var dæmdur
+konungi í Bæjaralandi. Reyndar var hann aldrei alveg kláraður því Lúðvík var dæmdur
 geðveikur 1886, að því er virðist til að koma honum frá völdum (hann var augljóslega
 svolítið klikkaður eins og má sjá á kastalanum, en ekki endilega geðveikur). Lúðvík
 var aðdáandi Wagners og þeir voru góðir vinir. Í kastalanum er svefnherbergi fyrir
